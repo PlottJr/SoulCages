@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "LSL",
+    "SES",
+    "LSL"
+  ],
+  "key": {
+    "S": {
+      "item": "minecraft:ender_pearl"
+    },
+    "E": {
+      "item": "minecraft:chorus_flower"
+    },
+    "L": {
+      "item": "minecraft:soul_sand"
+    }
+  },
+  "result": {
+    "item": "soul_cage:one_time_soul_cage"
+  }
+}

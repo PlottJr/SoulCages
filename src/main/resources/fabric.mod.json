@@ -1,0 +1,25 @@
+{
+	"schemaVersion": 1,
+	"id": "soul_cage",
+	"version": "1.0.0",
+	"name": "SoulCage",
+	"description": "Capture and release mobs using the SoulCage, with configurable mob capture restrictions.",
+	"authors": ["plott & native"],
+	"contact": {
+		"sources": ""
+	},
+	"license": "MIT",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"com.plott.soul_cage.SoulCageMod"
+		]
+	},
+	"depends": {
+		"fabricloader": ">=0.14.0",
+		"minecraft": "1.20.1",
+		"java": ">=17"
+	}
+
+
+}
